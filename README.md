@@ -1,7 +1,8 @@
-#Livro de receitas :man_cook:
+#Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
-Olá! Bem vindo ao meu livro de receitas :wave:
+Pequeno projeto realizado durante o curso do Bootcamp da DIO, a fim de explorar conceitos da POO: Abstração, Encapsulamento, Herança e Polimorfismo.
 
-- Strogonoff de Frango
-- Pavê 
-- Bolo de Cenoura
+
+
+
+
